@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinUI", "WinUI\WinUI.csproj", "{A77AAD0A-7435-4873-8B2F-030F3E12CF9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetClassLibrary", "PetClassLibrary\PetClassLibrary.csproj", "{03AB7F7C-A474-4AAC-9FDB-EB3C15436325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfUI", "WpfUI\WpfUI.csproj", "{C9D52ED6-9F5E-4E11-A51E-4ED083F7B4AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A77AAD0A-7435-4873-8B2F-030F3E12CF9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A77AAD0A-7435-4873-8B2F-030F3E12CF9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A77AAD0A-7435-4873-8B2F-030F3E12CF9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A77AAD0A-7435-4873-8B2F-030F3E12CF9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03AB7F7C-A474-4AAC-9FDB-EB3C15436325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03AB7F7C-A474-4AAC-9FDB-EB3C15436325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03AB7F7C-A474-4AAC-9FDB-EB3C15436325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03AB7F7C-A474-4AAC-9FDB-EB3C15436325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9D52ED6-9F5E-4E11-A51E-4ED083F7B4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9D52ED6-9F5E-4E11-A51E-4ED083F7B4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9D52ED6-9F5E-4E11-A51E-4ED083F7B4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9D52ED6-9F5E-4E11-A51E-4ED083F7B4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B39598D-A9D2-4556-883B-85BFC26C3CFE}
+	EndGlobalSection
+EndGlobal
